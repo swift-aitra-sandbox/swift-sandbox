@@ -1,4 +1,4 @@
-name: Code Review with AI
+name: Aitra - Code Review
 
 on:
   workflow_dispatch:
