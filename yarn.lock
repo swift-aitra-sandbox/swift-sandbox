@@ -1216,7 +1216,7 @@ __metadata:
     http-status-codes: ^2.3.0
     morgan: ^1.10.0
     nocache: ^4.0.0
-    nodemon: ^3.0.2
+    nodemon: ^3.1.9
     pg: ^8.11.3
     ts-node: ^10.9.1
     typescript: ^5.3.2
@@ -9019,9 +9019,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemon@npm:^3.0.2":
-  version: 3.0.2
-  resolution: "nodemon@npm:3.0.2"
+"nodemon@npm:^3.1.9":
+  version: 3.1.9
+  resolution: "nodemon@npm:3.1.9"
   dependencies:
     chokidar: ^3.5.2
     debug: ^4
@@ -9035,7 +9035,7 @@ __metadata:
     undefsafe: ^2.0.5
   bin:
     nodemon: bin/nodemon.js
-  checksum: 61f3dd207ad444f4a7a2f1aa44adc886605c96c7bc6286291c2360e5e2cd26c3828c90a1418a60783a9da2463593383149135a5a4c099918c54d34a611745499
+  checksum: d045065dea08904f1356d18132538e71a61df12cb4e2852730310492943676d4789bedb28c343a5d85d5e07558bf47b73f000a8017409f0b7d522a3c1c42b2e5
   languageName: node
   linkType: hard
 
